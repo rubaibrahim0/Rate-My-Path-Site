@@ -1,4 +1,4 @@
-# Rate MyPath offers a community-driven resource in which students can not only find navigation directions around UMD.
+# Rate MyPath offers a community-driven resource in which students can find accessible navigation directions around UMD.
 
 # Website Development: Utilized HTML for our foundational structure, CSS for our styling and layout, JavaScript for our animations, and  Visual Studio (VS) as a suite for coding collaboration.
 
